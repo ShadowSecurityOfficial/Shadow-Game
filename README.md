@@ -10,8 +10,8 @@ Shadow-Game also known as the "Shadowverse" is an anti-addicting and fun hangout
 
 ```
 https://github.com/
-https://todoist.com/karma (Less engaging than habitica but no censorship)
-https://github.com/headcounter/shabitica (Selfhost Habitica to avoid censorship, Shadow-Game is designed to be combined as a reward for completing a task in todoist or habitica) 
+https://kanbanflow.com/ (Less engaging than habitica but no censorship)
+https://github.com/headcounter/shabitica (Selfhost Habitica to avoid censorship, Shadow-Game is designed to be combined as a reward for completing a task in kabanflow or habitica) 
 https://habitica.com/
 https://www.roblox.com/create
 https://www.gitkraken.com/
